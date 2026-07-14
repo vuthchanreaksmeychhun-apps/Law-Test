@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Law Hub",
+  "description": "High-fidelity modern mobile app design for Cambodian legal services, featuring a lawyer directory, legal document templates, a law textbook library, and an interactive AI legal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
